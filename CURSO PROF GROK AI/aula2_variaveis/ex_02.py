@@ -1,8 +1,7 @@
 # CONVERTENDO CELSIUS PARA FAHRENHEIT
 
-celsius = float(input('Digite a temperatura em Celsius: '))
+celsius = float(input('Digite a temperatura em Celsius °C: '))
 
 fahrenheit = (celsius * 9/5) + 32
 
-print(f'A tempera em Celsius é: {celsius:.1f}')
-print(f'A tempera em Fahrenheit é: {fahrenheit:.1f}')
+print(f'{celsius:.1f}°C equivale a {fahrenheit:.1f}°F')
