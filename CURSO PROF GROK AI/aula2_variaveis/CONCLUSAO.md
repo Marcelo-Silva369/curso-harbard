@@ -49,6 +49,14 @@ print(f'A tempera em Celsius é: {celsius:.1f}')
 print(f'A tempera em Fahrenheit é: {fahrenheit:.1f}')
 
 Saída de exemplo de um dos exercícios:
+# ERRO DO CODIGO DO EXERCICIO D
+
+Experimento:
+Traceback (most recent call last):
+  File "c:\Users\marce\OneDrive\Documentos\GITHUB REPOSITÓRIO\curso-harbard\CURSO PROF GROK AI\aula2_variaveis\ex_03.py", line 4, in <module>
+    print("idade + 10:", idade + 10)
+                         ^^^^^
+NameError: name 'idade' is not defined
 
 Link do repositório atualizado (ou commit específico):
 https://github.com/Marcelo-Silva369/curso-harbard
